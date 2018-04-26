@@ -1,2 +1,1 @@
-# progress
-progress management
+# tutorial
